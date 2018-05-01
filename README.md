@@ -21,6 +21,6 @@ $33.5
 Amazon
 # Network
 Wifi and Cellular(GCSM)
-#Why did they choose these?
+# Why did they choose these?
 Simple and easy to set up
-Architecture
+# Architecture
