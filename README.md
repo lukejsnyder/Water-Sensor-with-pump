@@ -23,3 +23,4 @@ Wifi and Cellular(GSM or CDMA)
 # Why did they choose these?
 Simple and easy to set up
 # Architecture
+![final](https://user-images.githubusercontent.com/14096879/39499697-9f3b03a4-4d7d-11e8-8958-a1dd1df3b870.png)
