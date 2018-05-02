@@ -19,7 +19,7 @@ $33.5
 # Where did you buy it?
 Amazon
 # Network
-Wifi and Cellular(GCSM)
+Wifi and Cellular(GSM or CDMA)
 # Why did they choose these?
 Simple and easy to set up
 # Architecture
