@@ -1,6 +1,6 @@
 # Project Description
 # Video
-  In this youtube video I was using a 5v relay instead of a 3v one. I was not able to have the pump connected without an external power source. I instead connected it to my pi to show to proof of concept. When you are building your own remeber to get a 3v relay. 
+  In this youtube video I was using a 5v relay instead of a 3v one. I was not able to have the pump connected without an external power source. I instead connected it to my pi to show a proof of concept. When you are building your own remeber to get a 3v relay. 
 https://www.youtube.com/watch?v=HtoZyUCmgwY
 # What problem does my project solve?
   Solves the problem of remebering to water your plant.   
